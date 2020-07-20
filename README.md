@@ -1,2 +1,2 @@
 # androidWS
-Android app detecting 'Whistle' sound. test
+Android app detecting 'Whistle' sound.
